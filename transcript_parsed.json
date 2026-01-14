@@ -1,0 +1,207 @@
+{
+  "university": "PolyU",
+  "grading_scale": "4.3",
+  "summary": {
+    "current_cgpa": 2.825,
+    "total_credits_counted": 51.0,
+    "grade_points_sum": 144.1
+  },
+  "goal_analysis": {
+    "goal_cgpa": 3.5,
+    "total_required_credits": 109.0,
+    "remaining_credits": 58.0,
+    "required_average_gp": 4.093,
+    "required_letter_equivalent": "~A"
+  },
+  "courses": [
+    {
+      "course_code": "CLC2151",
+      "course_title": "CHINESE III",
+      "credits": 3.0,
+      "result": "A+",
+      "year_sem": "2021/2",
+      "duplicate": true,
+      "section": "LCR",
+      "status": "included",
+      "grade_point": 4.3
+    },
+    {
+      "course_code": "ELC2012",
+      "course_title": "ENGLISH",
+      "credits": 3.0,
+      "result": "C+",
+      "year_sem": "2021/1",
+      "duplicate": false,
+      "section": "LCR",
+      "status": "included",
+      "grade_point": 2.3
+    },
+    {
+      "course_code": "CBS3538",
+      "course_title": "JAPANESE CULTURE",
+      "credits": 3.0,
+      "result": "B-",
+      "year_sem": "2024/1",
+      "duplicate": false,
+      "section": "Major/DSR - COMP Elective",
+      "status": "included",
+      "grade_point": 2.7
+    },
+    {
+      "course_code": "COMP3335",
+      "course_title": "DATABASE SECURITY",
+      "credits": 3.0,
+      "result": "B+",
+      "year_sem": "2025/1",
+      "duplicate": false,
+      "section": "Major/DSR - COMP Elective",
+      "status": "included",
+      "grade_point": 3.3
+    },
+    {
+      "course_code": "COMP4136",
+      "course_title": "DATA SECURITY",
+      "credits": 3.0,
+      "result": "C+",
+      "year_sem": "2024/2",
+      "duplicate": false,
+      "section": "Major/DSR - COMP Elective",
+      "status": "included",
+      "grade_point": 2.3
+    },
+    {
+      "course_code": "COMP1002",
+      "course_title": "COMPUTATIONAL THINKING AND PROBLEM SOLVING",
+      "credits": 4.0,
+      "result": "B",
+      "year_sem": "2023/1",
+      "duplicate": false,
+      "section": "Major/DSR - Compulsory",
+      "status": "included",
+      "grade_point": 3.0
+    },
+    {
+      "course_code": "COMP1011",
+      "course_title": "PROGRAMMING FUNDAMENTALS",
+      "credits": 3.0,
+      "result": "B-",
+      "year_sem": "2023/1",
+      "duplicate": false,
+      "section": "Major/DSR - Compulsory",
+      "status": "included",
+      "grade_point": 2.7
+    },
+    {
+      "course_code": "COMP1411",
+      "course_title": "INTRODUCTION TO COMPUTER SYSTEMS",
+      "credits": 3.0,
+      "result": "C+",
+      "year_sem": "2023/2",
+      "duplicate": false,
+      "section": "Major/DSR - Compulsory",
+      "status": "included",
+      "grade_point": 2.3
+    },
+    {
+      "course_code": "COMP1433",
+      "course_title": "INTRODUCTION TO DATA ANALYTICS",
+      "credits": 3.0,
+      "result": "B",
+      "year_sem": "2023/2",
+      "duplicate": false,
+      "section": "Major/DSR - Compulsory",
+      "status": "included",
+      "grade_point": 3.0
+    },
+    {
+      "course_code": "COMP2011",
+      "course_title": "DATA STRUCTURES",
+      "credits": 3.0,
+      "result": "B+",
+      "year_sem": "2024/1",
+      "duplicate": false,
+      "section": "Major/DSR - Compulsory",
+      "status": "included",
+      "grade_point": 3.3
+    },
+    {
+      "course_code": "COMP2012",
+      "course_title": "DISCRETE MATHEMATICS",
+      "credits": 3.0,
+      "result": "B",
+      "year_sem": "2024/1",
+      "duplicate": false,
+      "section": "Major/DSR - Compulsory",
+      "status": "included",
+      "grade_point": 3.0
+    },
+    {
+      "course_code": "COMP2021",
+      "course_title": "OBJECT-ORIENTED PROGRAMMING",
+      "credits": 3.0,
+      "result": "C",
+      "year_sem": "2024/1",
+      "duplicate": false,
+      "section": "Major/DSR - Compulsory",
+      "status": "included",
+      "grade_point": 2.0
+    },
+    {
+      "course_code": "COMP2322",
+      "course_title": "COMPUTER NETWORKING",
+      "credits": 3.0,
+      "result": "B-",
+      "year_sem": "2024/2",
+      "duplicate": false,
+      "section": "Major/DSR - Compulsory",
+      "status": "included",
+      "grade_point": 2.7
+    },
+    {
+      "course_code": "COMP2411",
+      "course_title": "DATABASE SYSTEMS",
+      "credits": 3.0,
+      "result": "B",
+      "year_sem": "2024/2",
+      "duplicate": false,
+      "section": "Major/DSR - Compulsory",
+      "status": "included",
+      "grade_point": 3.0
+    },
+    {
+      "course_code": "COMP2432",
+      "course_title": "OPERATING SYSTEMS",
+      "credits": 3.0,
+      "result": "C+",
+      "year_sem": "2024/2",
+      "duplicate": false,
+      "section": "Major/DSR - Compulsory",
+      "status": "included",
+      "grade_point": 2.3
+    },
+    {
+      "course_code": "COMP3211",
+      "course_title": "SOFTWARE ENGINEERING",
+      "credits": 3.0,
+      "result": "B+",
+      "year_sem": "2025/1",
+      "duplicate": false,
+      "section": "Major/DSR - Compulsory",
+      "status": "included",
+      "grade_point": 3.3
+    },
+    {
+      "course_code": "COMP3511",
+      "course_title": "LEGAL ASPECTS AND ETHICS OF COMPUTING",
+      "credits": 2.0,
+      "result": "C+",
+      "year_sem": "2025/1",
+      "duplicate": false,
+      "section": "Major/DSR - Compulsory",
+      "status": "included",
+      "grade_point": 2.3
+    }
+  ],
+  "dedup_logs": [],
+  "excluded_logs": []
+}
